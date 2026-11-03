@@ -1,0 +1,5 @@
+# 剪映草稿自动生成
+pyJianYingDraft>=0.2.0
+yt-dlp>=2024.1.1
+
+# 系统依赖：FFmpeg 需单独安装并加入 PATH
